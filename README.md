@@ -11,7 +11,7 @@ O projeto foi desenvolvido para explorar dados relacionados ao funil de proposta
 - Carregamento e exploração dos dados fornecidos.
 - Tratamento e normalização dos dados.
 - Análise do funil de propostas e de seus resultados.
-- Análise de indicadores relacionados ao LTV (_Lifetime Value_) e ao LTV em relação ao valor do imóvel (LTV ratio).
+- Análise de indicadores relacionados ao LTV.
 - Análise dos resultados para identificar oportunidades de melhoria e apoiar decisões de negócio.
 - Geração de um relatório em PDF com os resultados da análise.
 
